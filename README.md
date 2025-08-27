@@ -12,7 +12,7 @@ My Programming Assignment 1 is explained in this repository.
 ---
 
 ## Alphabet Soup Problem  
-In this problem, we are tasked to arrange the letters of a word in alphabetical order.  
+In this project, we are tasked to arrange the letters of a word in alphabetical order.  
 
 I began by defining the function:  
 ```python
@@ -34,7 +34,7 @@ alphabet_soup("TestNumber3")
 ---
 
 ## Emoticon Problem  
-In this problem, we are tasked to change words into emoticons. Specifically, the smile, grin, sad, and mad emoticons.  
+In this project, we are tasked to change words into emoticons. Specifically, the smile, grin, sad, and mad emoticons.  
 
 I began by making the function needed that would replace the keywords with their emoticon equivalents:  
 ```python
@@ -62,7 +62,7 @@ emotify("Try to grin and smile instead of being mad")
 ---
 
 ## Unpacking List  
-In this problem, we are tasked to split a collection of numbers into three variables: first, middle, and last.  
+In this project, we are tasked to split a collection of numbers into three variables: first, middle, and last.  
 
 I began by creating a sample list first:  
 ```python
@@ -76,3 +76,4 @@ print("First:", first)
 print("Middle:", *middle)
 print("Last:", last)
 ```
+
